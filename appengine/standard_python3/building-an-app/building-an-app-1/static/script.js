@@ -19,7 +19,7 @@
 
 window.addEventListener('load', function () {
 
-  console.log("Hello World!");
+  console.log("Hello Everyone. This is Ashish!");
 
 });
 // [END gae_python3_log]
